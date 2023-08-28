@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+
+.solar_system_1{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(to right,#294d61,#6da5c0,#072e33,#05161a);
+}
+
+
+
+.solar_1{
+    width: 50%;
+    height: 110px;
+    background-color: cadetblue;
+    display: flex;
+    border: 2px solid green;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: tomato;
+    
+}
+
+.solar_2{
+    width: 50%;
+    height: 50px;
+    background-color: cadetblue;
+    display: flex;
+    border: 2px solid green;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: tomato;
+}
+
+.solar_3{
+    width: 50%;
+    height: 80px;
+    background-color: cadetblue;
+    display: flex;
+    border: 2px solid green;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: tomato;
+}
+
+.system_1{
+    width: 10%;
+    height: 40px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.system_2{
+    width: 40%;
+    height: 40px;
+    background-color: aqua;
+    border: 1px solid black;  
+}
+
+
+.system_4{
+    width: 10%;
+    height: 40px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+
+.system_5{
+    width: 47%;
+    height: 100px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.system_6{
+    width: 95%;
+    height: 70px;
+    background-color: aqua;
+    border: 1px solid black;
+    
+}
+
+.system_7{
+    width: 30%;
+    height: 75px;
+    background-color: aqua;
+    border: 1px solid black;
+    
+}
+
+.system_8{
+    width: 25%;
+    height: 75px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.system_9{
+    width: 40%;
+    height: 75px;
+    background-color: aqua;
+    border: 1px solid black;
+}
